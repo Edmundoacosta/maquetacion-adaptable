@@ -6,7 +6,7 @@
 	margin-bottom: 25px;
 }
 
-.fixed {
+.reverse {
 	flex-direction: row-reverse;
 }
 
