@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+}
+
+.nav-flex {
+	background: #86969C;
+	color: #fff;
+	display: flex;
+	font-family: 'Lato', sans-serif;
+	justify-content: space-between;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+}
+
+.nav-left, 
+.nav-right {
+	align-items: center;
+	display: flex;
+	list-style: none;
+	padding: 0;
+}
+
+ul li, i {
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+}
